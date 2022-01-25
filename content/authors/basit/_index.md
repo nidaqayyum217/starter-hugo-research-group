@@ -61,7 +61,7 @@ user_groups:
 - Researchers
 ---
 
-Abdul Basit received his M.Sc. degree in electrical engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2020 and B.Sc. degree in telecommunication engineering from University of Engineering and Technology (UET), Peshawar, Pakistan in 2018. Currently, he is working as research assistant at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), Pakistan. Moreover, he is also working as technical team Lead with 'AI4GLOF: AI for glacial lake outburst floods hazard potential assessment in Chitral, Pakistan' project, funded by National Geographic Society and Microsoft.
+Abdul Basit received his M.Sc. degree in electrical engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2020 and B.Sc. degree in telecommunication engineering from University of Engineering and Technology (UET), Peshawar, Pakistan in 2018. Currently, he is working as research assistant at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), Pakistan. Moreover, he is also working as technical team lead with 'AI4GLOF: AI for glacial lake outburst floods hazard potential assessment in Chitral, Pakistan' project. It is funded by the National Geographic Society and Microsoft.
 
 Abdul Basit won the prestigious President’s gold medal for securing highest cumulative grade point average during his undergraduate studies. Additionally, he has been awarded indigenous merit scholarship for undergraduate studies, and National endowment scholarship for talent for graduate studies.
 
