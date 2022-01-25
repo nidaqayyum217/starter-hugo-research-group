@@ -21,7 +21,7 @@ education:
   courses:
   - course: M.Sc. in Electrical Engineering
     institution: National University of Sciences and Technology, Islamabad
-    year: 2021
+    year: 2020
   - course: B.Sc. in Telecommunication Engineering
     institution: University of Engineering and Technology, Peshawar
     year: 2018
@@ -61,7 +61,7 @@ user_groups:
 - Researchers
 ---
 
-Abdul Basit received his M.Sc. degree in electrical engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan and B.Sc. degree in telecommunications engineering from University of Engineering and Technology (UET), Peshawar, Pakistan. Currently, he is working as research assistant at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), Pakistan. Moreover, he is also working as technical team Lead with 'AI4GLOF: AI for Glacial Lake Outburst Floods (GLOFs) hazard potential assessment in Chitral, Pakistan' project funded by National Geographic Society and Microsoft.
+Abdul Basit received his M.Sc. degree in electrical engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan in 2020 and B.Sc. degree in telecommunications engineering from University of Engineering and Technology (UET), Peshawar, Pakistan in 2018. Currently, he is working as research assistant at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), Pakistan. Moreover, he is also working as technical team Lead with 'AI4GLOF: AI for glacial lake outburst floods hazard potential assessment in Chitral, Pakistan' project, funded by National Geographic Society and Microsoft.
 
-Abdul Basit won the prestigious President’s gold medal for securing highest cumulative grade point average during his undergraduate studies. Additionally, he has been awarded indigenous merit scholarship for undergraduate studies, and national endowment scholarship for talent for graduate studies.
+Abdul Basit won the prestigious President’s gold medal for securing highest cumulative grade point average during his undergraduate studies. Additionally, he has been awarded indigenous merit scholarship for undergraduate studies, and National endowment scholarship for talent for graduate studies.
 
