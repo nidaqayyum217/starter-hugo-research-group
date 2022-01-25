@@ -6,7 +6,7 @@ title: Abdul Basit
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Technical Team Lead - AI4GLOF | Research Assistant
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -61,7 +61,7 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abdul Basit received his M.Sc. degree in electrical engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan and B.Sc. degree in telecommunications engineering from University of Engineering and Technology (UET), Peshawar, Pakistan. Currently, he is working as research assistant at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), Pakistan. Moreover, he is also working as technical team Lead with 'AI4GLOF: AI for Glacial Lake Outburst Floods (GLOFs) hazard potential assessment in Chitral, Pakistan' project funded by National Geographic Society and Microsoft.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Abdul Basit won the prestigious President’s gold medal for securing highest cumulative grade point average during his undergraduate studies. Additionally, he has been awarded indigenous merit scholarship for undergraduate studies, and national endowment scholarship for talent for graduate studies.
 
