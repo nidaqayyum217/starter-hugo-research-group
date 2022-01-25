@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'phdee21002@itu.edu.pk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NaseerEhtasham
