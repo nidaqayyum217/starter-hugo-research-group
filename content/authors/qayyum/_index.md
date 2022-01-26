@@ -9,24 +9,23 @@ superuser: false
 role: Research Associate - Program Manager
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: NIDA QAYYUM received the B.S. in space sciences from University of the Punjab, Lahore in 2017 and M.S. in remote sensing and geographic information science from Institute of Space Technology Islamabad, Pakistan in 2020. She is currently working as project manager at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU), under ‘AI4GLOF: AI for glacial lake outburst floods hazard potential assessment in Chitral, Pakistan’. Her research interest includes remote sensing of glaciers, machine learning and GIS.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing
+- GIS
+- Machine Learning
+- Glaciers
+- Climate Change
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.S. in RS&GIS
+    institution: Institute of Space Technology, Islamabad
+    year: 2020
+  - course: B.S. in Space Sciences
+    institution: University of the Punjab, Lahore 
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
